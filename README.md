@@ -39,9 +39,10 @@ npm install
 # Por ejemplo, para la persistencia de datos o claves de API.
 
 # Inicia el servidor de desarrollo
-npm run dev
+en consola asegurarse de estar en la carpeta con index.js
+node index.js 
 ```
-**Nota**: La autenticación básica requerida para los endpoints privados se realiza con el usuario `admin` y la contraseña `1234`.
+**Nota**: La autenticación básica requerida para los endpoints privados se realiza con el usuario `admin` y la contraseña `1234`
 ### Endpoints de la API
 
 | Método | Endpoint | Descripción | Requisito |
